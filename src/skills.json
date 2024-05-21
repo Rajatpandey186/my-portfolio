@@ -17,7 +17,7 @@
   },
   {
     "name": "Microservices",
-    "path": "./microservices.svg"
+    "path": "./microservice.png"
   },
   {
     "name": "Teradata",
@@ -25,15 +25,15 @@
   },
   {
     "name": "Kafka",
-    "path": "./Kafka.svg"
+    "path": "./kafka.svg"
   },
   {
     "name": "Postman",
-    "path": "./postman.png"
+    "path": "./postman.svg"
   },
   {
     "name": "J2EE",
-    "path": "./aws-logo.png"
+    "path": "./j2ee.png"
   },
   {
     "name": "Azure",
